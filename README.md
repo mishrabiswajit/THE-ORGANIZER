@@ -26,7 +26,7 @@ Managing a directory with multiple files can become challenging and cluttered ov
 <b>Linux users</b> :
 
 ```shell
-curl -o THE_ORGANIZER.py https://maglit.me/ && python THE_ORGANIZER.py
+curl -o THE_ORGANIZER.py https://raw.githubusercontent.com/mishrabiswajit/THE-ORGANIZER/main/THE_ORGANIZER.py && python THE_ORGANIZER.py
 ```
 
 <b>Windows users</b> :
